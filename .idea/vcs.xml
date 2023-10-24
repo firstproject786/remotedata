@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/remotedata" vcs="Git" />
+>>>>>>> cadd902b6f7245b2cc1225de9af1743540a81fea
   </component>
 </project>

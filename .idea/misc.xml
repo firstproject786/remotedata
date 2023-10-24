@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 =======
 >>>>>>> vr
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+>>>>>>> cadd902b6f7245b2cc1225de9af1743540a81fea
 <project version="4">
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
